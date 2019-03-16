@@ -1,0 +1,14 @@
+<manifest>
+    <main-class>com.runemate.GrabWire.ImprecatesGrabWire</main-class>
+    <name>Imprecate's Grab Wire</name>
+    <description>Collects cave goblin wire</description>
+    <version>0.1.0</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>THIEVING</category>
+    </categories>
+</manifest>

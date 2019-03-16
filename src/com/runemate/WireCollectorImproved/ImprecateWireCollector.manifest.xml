@@ -1,0 +1,14 @@
+<manifest>
+    <main-class>com.runemate.WireCollectorImproved.ImprecateWireCollector</main-class>
+    <name>Imprecate's Wire Collector</name>
+    <description>Collects cave goblin wire</description>
+    <version>0.2.0</version>
+
+    <compatibility>
+        <game-type>OSRS</game-type>
+    </compatibility>
+
+    <categories>
+        <category>THIEVING</category>
+    </categories>
+</manifest>
